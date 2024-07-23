@@ -21,4 +21,3 @@ if type(output) == list:
         print(i)
 else:
     print(output)
-print("Code Executed")
